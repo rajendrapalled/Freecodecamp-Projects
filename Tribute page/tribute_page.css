@@ -1,0 +1,37 @@
+h1 {
+  text-align: center;
+  //background-color: grey;
+}
+h2 {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}
+h4 {
+  text-align: center;
+}
+h5 {
+  text-align: center;
+}
+
+body {
+  background-color: #cea;
+}
+#image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  height: auto;
+}
+#img-caption {
+  text-align: center;
+}
+#page {
+  display: block;
+  margin-left: 10;
+  margin-right: auto;
+  max-width: 100%;
+  height: auto;
+}
